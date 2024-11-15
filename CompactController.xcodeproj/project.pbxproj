@@ -12,6 +12,7 @@
 		CE3093372CE488D7005C2475 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3093362CE488D7005C2475 /* ViewController.swift */; };
 		CE30933C2CE488D8005C2475 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE30933B2CE488D8005C2475 /* Assets.xcassets */; };
 		CE30933F2CE488D8005C2475 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = CE30933E2CE488D8005C2475 /* Base */; };
+		CE887C922CE681C80015FC2C /* PopOverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE887C912CE681C80015FC2C /* PopOverViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CE30933B2CE488D8005C2475 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE30933E2CE488D8005C2475 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE3093402CE488D8005C2475 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE887C912CE681C80015FC2C /* PopOverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOverViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				CE3093322CE488D7005C2475 /* AppDelegate.swift */,
 				CE3093342CE488D7005C2475 /* SceneDelegate.swift */,
 				CE3093362CE488D7005C2475 /* ViewController.swift */,
+				CE887C912CE681C80015FC2C /* PopOverViewController.swift */,
 				CE30933B2CE488D8005C2475 /* Assets.xcassets */,
 				CE30933D2CE488D8005C2475 /* LaunchScreen.storyboard */,
 				CE3093402CE488D8005C2475 /* Info.plist */,
@@ -137,6 +140,7 @@
 				CE3093372CE488D7005C2475 /* ViewController.swift in Sources */,
 				CE3093332CE488D7005C2475 /* AppDelegate.swift in Sources */,
 				CE3093352CE488D7005C2475 /* SceneDelegate.swift in Sources */,
+				CE887C922CE681C80015FC2C /* PopOverViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
